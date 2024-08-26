@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  printf("this is red hat account);
+  printf("this is a red hat account);
   printf("red hat");
 return 0;
 }
